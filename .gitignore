@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+# Renders
+out/
+# Material audiovisual (pesado / con licencia / fotos de estudiantes): fuera de git
+uss-video/public/clips/
+uss-video/public/fotos/
+uss-video/public/*.m4a
+uss-video/public/*.mp3
+uss-video/ref/
